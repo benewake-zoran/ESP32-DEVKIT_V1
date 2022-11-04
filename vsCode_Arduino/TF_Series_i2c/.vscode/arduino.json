@@ -1,0 +1,8 @@
+{
+    "configuration": "FlashFreq=80,UploadSpeed=921600,DebugLevel=none,EraseFlash=none",
+    "board": "esp32:esp32:esp32doit-devkit-v1",
+    "programmer": "esp32:esptool",
+    "port": "COM3",
+    "output": "./Arduino/build",
+    "sketch": "TF_Series_i2c.ino"
+}
